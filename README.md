@@ -26,8 +26,8 @@
 </p>
 <h3>Recent projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanelys-mena&repo=flairbnb)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewPMurray&repo=Petsy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanelys-mena&repo=flairbnb)](https://github.com/yanelys-mena/flairbnb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewPMurray&repo=Petsy)](https://github.com/AndrewPMurray/petsy)
 
 
 <h3>Where to find me</h3>
