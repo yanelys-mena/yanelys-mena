@@ -20,7 +20,7 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
- <img alt="Flask" src=https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+ <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-squaree&logo=postgresql&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />                                                                                    
