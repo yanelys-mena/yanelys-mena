@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yanelys, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/616/616545.png" width="13"/> <b>Miami, Florida</b>. 
+I'm Yanelys, a Full Stack Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/616/616545.png" width="13"/> <b>Miami, Florida</b>. 
 
 “The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” – Steve Jobs  </p>
 
