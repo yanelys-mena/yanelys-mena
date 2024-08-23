@@ -5,6 +5,13 @@ I'm Yanelys, a Full Stack Software Engineer from <img src="https://cdn-icons-png
 
 “The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” – Steve Jobs  </p>
 
+I am an experienced Software engineer specialized in developing robust and scalable web applications with a strong focus on both front-end and back-end technologies. My expertise includes ReactJS, Node.js, and TypeScript, allowing me to build and integrate REST APIs, design UX-focused features, and ensure high performance and scalability. I really enjoy building beautiful UI that is intuitive and east to use for users. 
+
+In my recent role at Markforged, I optimized backend API responses, refactored legacy code, delivered high stake projects like custom dashboards, and integrated payment processing with Stripe to enhance user experience. I also provided mentorship to junior developers and led projects to ensure seamless application performance.
+
+I am passionate about writing clean, maintainable code and enjoy tackling complex problems. I thrive in collaborative environments and am always eager to learn new technologies and contribute to my team’s success
+
+
 <h3> Things I code with</h3 >
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
