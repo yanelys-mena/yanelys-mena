@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/></h1>
 
 
 I'm Yanelys, a Full Stack Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/616/616545.png" width="13"/> <b>Miami, Florida</b>. 
