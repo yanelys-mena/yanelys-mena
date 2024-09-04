@@ -1,15 +1,8 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/></h1>
 
 
-I'm Yanelys, a Full Stack Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/616/616545.png" width="13"/> <b>Miami, Florida</b>. 
+Hi, I’m Yanelys, a software engineer with 3 years of experience. I’m passionate about solving complex problems and am currently seeking new opportunities to leverage my skills.
 
-“The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” – Steve Jobs  </p>
-
-I am an experienced Software engineer specialized in developing web applications with a strong focus on both front-end and back-end technologies. My expertise includes ReactJS, Node.js, and TypeScript, allowing me to build and integrate REST APIs, design UX-focused features, and ensure high performance and scalability. I really enjoy building beautiful UI that is intuitive and east to use for users. 
-
-In my recent role at Markforged, I optimized backend API responses, refactored legacy code, delivered high stake projects like custom dashboards, and integrated payment processing with Stripe to enhance user experience. 
-
-I am passionate about writing clean, maintainable code and enjoy tackling complex problems. I thrive in collaborative environments and am always eager to learn new technologies and contribute to my team’s success
 
 
 <h3> Things I code with</h3 >
@@ -33,14 +26,6 @@ I am passionate about writing clean, maintainable code and enjoy tackling comple
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />                                                                                    
 
 </p>
-<h3>Recent projects</h3>
-                                                                                                                  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanelys-mena&repo=pinterest-clone)](https://github.com/yanelys-mena/pinterest-clone)
-                                                                                                                  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanelys-mena&repo=flairbnb)](https://github.com/yanelys-mena/flairbnb)
-                                                                                                                  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrewPMurray&repo=Petsy)](https://github.com/AndrewPMurray/petsy)
-
 
 <h3>Where to find me</h3>
 <a href="https://www.linkedin.com/in/yanelysmena" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
