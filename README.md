@@ -1,5 +1,3 @@
-<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/></h1>
-
 
 Hi, I’m Yanelys, a software engineer with 3 years of experience. I’m passionate about solving complex problems and am currently seeking new opportunities to leverage my skills.
 
