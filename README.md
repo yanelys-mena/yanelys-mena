@@ -6,6 +6,7 @@ As the founder of Stylish Hippie, I've built a successful online business specia
 In my previous role at Markforged, I became a go-to resource for React, developed a multi-endpoint REST API that automated client upload and 3D printing processes, and optimized backend performance for faster load times. I was a lead contributor for the migration of legacy code to modern technologies like React, TypeScript, and JavaScript, led multiple feature projects, and integrated Stripe for seamless payment processing.
 
 Key Skills
+
 Front-end: JavaScript, TypeScript, React, Redux, Next.js
 <br>
 Back-end: Node.js, TypeScript, Postgres, SQL, Python, Flask
