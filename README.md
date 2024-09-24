@@ -1,6 +1,16 @@
 
-Hi, I’m Yanelys, a software engineer with 3 years of experience. I’m passionate about solving complex problems and am currently seeking new opportunities to leverage my skills.
+Hi, I’m Yanelys, a software engineer with 3 years of experience and 4 years of product development experience. I’m passionate about solving complex problems and am currently seeking new opportunities to leverage my skills. I'm currently based in Miami, FL and open to relocate for the right fit.
 
+As the founder of Stylish Hippie, I've built a successful online business specializing in high-end designer and vintage women's fashion, with an emphasis on environmental sustainability. Currently, I'm working on developing a new ecommerce platform designed to enhance the shopping experience for customers and future users alike. This project has allowed me to combine my technical skills and reinforced my commitment to creating products that have a positive impact.
+
+In my previous role at Markforged, I became a go-to resource for React, developed a multi-endpoint REST API that automated client upload and 3D printing processes, and optimized backend performance for faster load times. I was a lead contributor for the migration of legacy code to modern technologies like React, TypeScript, and JavaScript, led multiple feature projects, and integrated Stripe for seamless payment processing.
+
+Key Skills
+Front-end: JavaScript, TypeScript, React, Redux, Next.js
+<br>
+Back-end: Node.js, TypeScript, Postgres, SQL, Python, Flask
+<br>
+Other: Git, Cypress, Jest, Mocha, Amazon S3, Datadog, CircleCI
 
 
 <h3> Things I code with</h3 >
