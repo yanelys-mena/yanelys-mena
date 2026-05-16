@@ -1,17 +1,24 @@
-
-Hi, I’m Yanelys, a software engineer with 3 years of experience and 4 years of product development experience. I’m passionate about solving complex problems and am currently seeking new opportunities to leverage my skills. I'm currently based in Miami, FL and open to relocate for the right fit.
-
-As the founder of Stylish Hippie, I've built a successful online business specializing in high-end designer and vintage women's fashion, with an emphasis on environmental sustainability. Currently, I'm working on developing a new ecommerce platform designed to enhance the shopping experience for customers and future users alike. This project has allowed me to combine my technical skills and reinforced my commitment to creating products that have a positive impact.
-
-In my previous role at Markforged, I became a go-to resource for React, developed a multi-endpoint REST API that automated client upload and 3D printing processes, and optimized backend performance for faster load times. I was a lead contributor for the migration of legacy code to modern technologies like React, TypeScript, and JavaScript, led multiple feature projects, and integrated Stripe for seamless payment processing.
+I’m a full-stack software engineer focused on building and scaling distributed systems and data-intensive platforms.
+ 
+At IRU, I work on a large-scale vulnerability detection platform powered by Kafka and PostgreSQL. My work spans backend systems, data pipelines, and performance optimization across services handling high-volume data. I focus on building systems that are reliable, scalable, and designed for real production constraints.
+ 
+On the backend, I work with distributed pipelines, Kafka consumers, and aggregation systems that power large datasets and improve data processing performance. On the frontend, I build React dashboards that turn complex backend data into usable, high-performance interfaces.
+ 
+Previously at Markforged, I worked as a full-stack engineer leading a migration to React and TypeScript, while building dashboards, UX tools, APIs, and backend integrations.
+ 
+I enjoy working across the stack, especially where backend systems, data infrastructure, and product experience intersect. I’m particularly interested in scalable systems and high-ownership engineering environments.
 
 Key Skills
 
-Front-end: JavaScript, TypeScript, React, Redux, Next.js
+Languages: JavaScript, Python, TypeScript, SQL
 <br>
-Back-end: Node.js, TypeScript, Postgres, SQL, Python, Flask
+Frontend: React, HTML, CSS
 <br>
-Other: Git, Cypress, Jest, Mocha, Amazon S3, Datadog, CircleCI
+Backend & Data: Node.js, REST APIs, PostgreSQL, Kafka, query optimization, schema design, distributed systems
+<br>
+Infrastructure: AWS, Datadog, CI/CD
+<br>
+AI-Assisted Development: Cursor, Claude, LLM-assisted prototyping and engineering workflows
 
 
 <h3> Things I code with</h3 >
